@@ -69,6 +69,9 @@ Create automated review response systems.
 ### 9. [X Post Generator](9_X_post_generator.ipynb)
 Generate social media content using LangGraph workflows.
 
+### 10. [Basic Chatbot](10_basic_chatbot.ipynb)
+Build a basic chatbot with conversational state management.
+
 ## Key Concepts Covered
 
 - **StateGraph**: Building stateful workflow graphs
@@ -104,6 +107,7 @@ LangGraphTutorial/
 ├── 7_Quadratic_Equation_Workflow_Conditional_Workflow.ipynb
 ├── 8_review_reply_workflow.ipynb
 ├── 9_X_post_generator.ipynb
+├── 10_basic_chatbot.ipynb
 ├── main.py
 ├── pyproject.toml
 ├── uv.lock
