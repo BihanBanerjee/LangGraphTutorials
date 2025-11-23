@@ -72,6 +72,12 @@ Generate social media content using LangGraph workflows.
 ### 10. [Basic Chatbot](10_basic_chatbot.ipynb)
 Build a basic chatbot with conversational state management.
 
+### 11. [Persistence](11_persistence.ipynb)
+Learn how to add persistence to your workflows to maintain state across sessions.
+
+### 12. [Fault Tolerance in LangGraph](12_fault_tolerance_in_LG.ipynb)
+Implement fault tolerance patterns to handle errors and ensure workflow reliability.
+
 ## Key Concepts Covered
 
 - **StateGraph**: Building stateful workflow graphs
@@ -81,6 +87,8 @@ Build a basic chatbot with conversational state management.
 - **Prompt Chaining**: Sequencing multiple LLM calls
 - **Evaluation Metrics**: Measuring workflow performance
 - **Parallel Workflows**: Running multiple paths simultaneously
+- **Persistence**: Maintaining state across workflow sessions
+- **Fault Tolerance**: Handling errors and ensuring workflow reliability
 
 ## Usage
 
@@ -108,6 +116,8 @@ LangGraphTutorial/
 ├── 8_review_reply_workflow.ipynb
 ├── 9_X_post_generator.ipynb
 ├── 10_basic_chatbot.ipynb
+├── 11_persistence.ipynb
+├── 12_fault_tolerance_in_LG.ipynb
 ├── main.py
 ├── pyproject.toml
 ├── uv.lock
